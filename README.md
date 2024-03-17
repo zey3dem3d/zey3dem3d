@@ -43,8 +43,8 @@
 
 
 
-<img align="left" src="" />
+<!--  <img align="left" src="" />
 <br>
 <a href="">
     <img src="">
-</a>
+</a>  -->
