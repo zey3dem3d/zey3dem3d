@@ -1,33 +1,86 @@
-<h3 align="center">
-  Welcome to Zeyad Emad's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+<h3 align="center">I'm Zeyad Emad — Software Engineer | .NET Backend & Angular Developer</h3>
 
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-<!--- 👨‍💻 Check out my portfolio at (my Portfolio) to see some of the projects I've worked on. -->
+###
 
-### Connect with Me :
+<br clear="both">
 
-<a href="https://www.linkedin.com/in/zeyad-emad-893b71223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/zey3dd" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Emad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<div align="center">
+  <!-- First Row: 2 Boxes Side-by-Side -->
+  <img src="https://streak-stats.demolab.com?user=zey3dem3d&theme=dracula&hide_border=true&border_radius=5" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zey3dem3d&layout=compact&theme=radical&hide_border=true" width="45%" />
+  
+  <br /><br />
 
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  <!-- Second Row: Full-Width Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zey3dem3d&theme=nord&area=true&hide_border=true&hide_title=true" width="90%" />
+</div>
 
-### 🛠 &nbsp;Tech Stack
+###
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular CLI](https://img.shields.io/badge/-Angular_CLI-05122A?style=flat&logo=angular)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="6" />
+  
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge" height="40" alt="efcore badge" />
+  <img width="6" />
+
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" height="40" alt="linq badge" />
+  <img width="6" />
+
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img width="6" />
+
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img width="6" />
+
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
+  <img width="6" />
+
+  <img src="https://cdn.simpleicons.org/github/000000" height="40" />
+</div>
+
+###
+
+## 📫 Contact Me
+
+<div align="left">
+  <a href="mailto:zeyad.emad.dev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zeyademad/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/zey3dd" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/zey3dem3d/zey3dem3d/output/snake.svg" alt="Snake animation" />
