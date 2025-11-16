@@ -83,4 +83,5 @@
 <br clear="both">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/zey3dem3d/zey3dem3d/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zey3dem3d/zey3dem3d/output/snake.svg" width="100%" alt="Snake animation" />
+
