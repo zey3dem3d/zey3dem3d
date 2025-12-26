@@ -4,21 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <!-- First Row: 2 Boxes Side-by-Side -->
-  <img src="https://streak-stats.demolab.com?user=zey3dem3d&theme=dracula&hide_border=true&border_radius=5" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zey3dem3d&layout=compact&theme=radical&hide_border=true" width="45%" />
-  
-  <br /><br />
-
-  <!-- Second Row: Full-Width Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zey3dem3d&theme=nord&area=true&hide_border=true&hide_title=true" width="90%" />
-</div>
-
-###
-
 ## 🛠️ Tech Stack
 
 <div align="left">
